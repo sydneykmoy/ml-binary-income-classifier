@@ -61,7 +61,7 @@ The following steps were completed in accordance with the machine learning proce
 | Evaluation Method       | Best C Value |  AUC Score  |
 |-------------------------|--------------|-------------|
 | Log Loss Minimization   |    *0.1*     |  *0.90531*  |
-| Accuracy Maximization   |    *10.*     |  *0.90500*  |
+| Accuracy Maximization   |    *10*      |  *0.90500*  |
 | GridSearchCV Best Value |    *1.0*     |  *0.90486*  |
 | SelectKBest Top 10      |    *N/A*     |  *0.89274*  |
 
