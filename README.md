@@ -1,6 +1,8 @@
 # 🤖 Machine Learning Project: Predictive Modeling Pipeline
 
-This project follows the **machine learning life cycle** from problem definition through model optimization. The goal was to explore and implement a complete supervised learning pipeline using a dataset of choice, leveraging classification techniques to solve a predictive problem.
+This project follows the **machine learning life cycle** from problem definition through model optimization. The goal was to explore and implement a complete supervised learning pipeline using a dataset of choice, leveraging classification techniques to solve a predictive problem.  
+
+[PDF of The Model](/DefineAndSolveMLProblemPDF.pdf)
 
 ---
 
